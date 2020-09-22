@@ -4,6 +4,9 @@ Hi there, I'm Miloš
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
+## About me 
+Experienced Solutions Developer with a demonstrated history of working in the information technology and services industry. Skilled in ASP.NET, C#, ASP.NET MVC, ASP.NET Web API, Java, Android development, HTML, CSS. Strong engineering professional with a Bachelor's degree focused in Computer Software Engineering from Singidunum University. 
+
 ## 📞 Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-mseckovic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miloš-šećković-b04075b7/)](https://www.linkedin.com/in/miloš-šećković-b04075b7/)
 [![Gmail Badge](https://img.shields.io/badge/-milossec@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milossec@gmail.com)](mailto:milossec@gmail.com)
